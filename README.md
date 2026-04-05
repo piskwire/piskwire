@@ -1,6 +1,6 @@
 # Hi, I'm Youssef El Fakkany 👋
 
-**Junior Front-End Developer** · Bouznika, Maroc
+**Junior Front-End Developer** · Mohammedia, Maroc
 
 Passionate about building clean, responsive web interfaces.
 BTS in Information Systems Development.
