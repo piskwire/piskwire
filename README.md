@@ -43,4 +43,4 @@ Open to opportunities in Casablanca, Mohammedia & Rabat.
 
 ---
 
-*Open to work · Available immediately · Casablanca / Mohammedia / Rabat / Marrakech*
+*Open to work · Available immediately · Casablanca / Mohammedia / Settat / Berrechid / Bouznika / Rabat / Marrakech*
