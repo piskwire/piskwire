@@ -32,7 +32,11 @@ Open to opportunities in Casablanca, Mohammedia & Rabat.
 
 ## 🚀 Projects
 
-> Coming soon — currently building my portfolio projects
+| Project | Description | Tech | Live |
+|---------|-------------|------|------|
+| 🌐 [Portfolio](https://github.com/piskwire/portfolio) | Personal portfolio website | HTML, CSS, JS | [Live Demo](https://piskwire.github.io/portfolio) |
+| ✅ [Task Manager](https://github.com/piskwire/task-manager) | Task management app with filters | React.js | [Live Demo](https://piskwire.github.io/task-manager) |
+| 🌤️ [Weather App](https://github.com/piskwire/weather-app) | Real-time weather using OpenWeatherMap API | React.js | [Live Demo](https://piskwire.github.io/weather-app) |
 
 ---
 
@@ -40,6 +44,7 @@ Open to opportunities in Casablanca, Mohammedia & Rabat.
 
 - 📧 youssef.elfekkany@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/youssef-el-fakkany01)
+- 🌐 [Portfolio](https://piskwire.github.io/portfolio)
 
 ---
 
